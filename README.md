@@ -11,10 +11,10 @@ This repository contains just an empty Haskell project.
 Steps...
 
 
-### Create the repository in GitHub
+### 1. Create the repository in GitHub
 
 
-### Clone the repository (from GitHub to your computer)
+### 2. Clone the repository (from GitHub to your computer)
 
 Using one of these methods:
 
@@ -23,7 +23,7 @@ Using one of these methods:
 - [Download ZIP](https://github.com/Learning-Haskell/empty-haskell-project/archive/master.zip)
 
 
-### Create the minimal cabal project files
+### 3. Create the minimal cabal project files
 
 #### cd
 
@@ -119,7 +119,7 @@ $ ls
 LICENSE				README.md			Setup.hs			empty-haskell-project.cabal
 ```
 
-### Create Main.hs
+### 4. Create Main.hs
 
 ``` haskell
 -- Main.hs
@@ -134,13 +134,21 @@ LICENSE				README.md			empty-haskell-project.cabal
 Main.hs				Setup.hs
 ```
 
-### Run
+### 5. Run
 
 ``` bash
 $ runhaskell Main.hs
 "Hello World"
 ```
 
-### Clone the repository (from GitHub to your computer)
+### 6. Edit README.md
+
+Edit this document!
+
+### 7. Commit and Sync to GitHub
 
 Using one of these methods:
+
+- GitHub Mac (or GitHub Windows)
+- ```git ...```
+
